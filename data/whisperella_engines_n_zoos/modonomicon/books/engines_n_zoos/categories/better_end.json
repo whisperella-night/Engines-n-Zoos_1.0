@@ -1,0 +1,19 @@
+{
+  "name": "book.modonomicon.engines_n_zoos.better_end.name",
+  "description": "book.modonomicon.engines_n_zoos.better_end.description",
+  "display_mode": "node",
+  "icon": {
+    "id": "betterend:end_mycelium"
+  },
+  "sort_number": 0,
+
+  "background": "modonomicon:textures/gui/dark_slate_seamless.png",
+  "background_parallax_layers": [],
+  "background_height": 512,
+  "background_width": 512,
+  "max_scroll_x": 512,
+  "max_scroll_y": 512,
+  "background_texture_zoom_multiplier": 1.0,
+
+  "show_category_button": true
+}
