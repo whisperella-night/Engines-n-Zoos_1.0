@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Data pack to add the accompanying Modonomicon for Whisperella's Engines 'n Zoos modpack."
+        "description": "Data pack to add the accompanying Modonomicon questbook for Whisperella's Engines 'n Zoos datapack."
         , "min_format": [107.1, 0]
         , "max_format": [107.1, 0]
     }
