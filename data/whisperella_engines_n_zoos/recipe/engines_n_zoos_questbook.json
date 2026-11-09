@@ -1,0 +1,77 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": false,
+  "ingredients": [
+    "minecraft:book",
+    [
+      "minecraft:beef",
+      "minecraft:porkchop",
+      "minecraft:mutton",
+      "minecraft:chicken",
+      "minecraft:rabbit",
+      "naturalist:bushmeat",
+      "naturalist:morsel",
+      "naturalist:duck",
+      "naturalist:venison",
+      "naturalist:drumstick",
+      "naturalist:mammoth_meat",
+      "naturalist:lizard_tail",
+      "naturalist:clam_meat",
+      "naturalist:crab_meat",
+      "minecraft:cod",
+      "minecraft:salmon",
+      "minecraft:tropical_fish",
+      "minecraft:pufferfish",
+      "naturalist:catfish",
+      "naturalist:bass",
+      "naturalist:anglerfish",
+      "naturalist:blobfish",
+      "naturalist:piranha",
+      "sealife:anchovy",
+      "sealife:angelfish",
+      "sealife:anglerfish",
+      "sealife:bass",
+      "sealife:blue_tang",
+      "sealife:bowfin",
+      "sealife:butterflyfish",
+      "sealife:carp",
+      "sealife:catfish",
+      "sealife:chub",
+      "sealife:damselfish",
+      "sealife:electric_ray",
+      "sealife:goldfish",
+      "sealife:koi",
+      "sealife:lamprey",
+      "sealife:lungfish",
+      "sealife:manta_ray",
+      "sealife:minnow",
+      "sealife:neon_tetra",
+      "sealife:northern_pike",
+      "sealife:perch",
+      "sealife:pickerel",
+      "sealife:piranha",
+      "sealife:pupfish",
+      "sealife:sardine",
+      "sealife:siamese_fighting_fish",
+      "sealife:stingray",
+      "sealife:silver_stripe_blaasop",
+      "sealife:trout",
+      "sealife:tuna",
+      "sealife:walleye",
+      "sealife:whitemargin_stargazer"
+    ]
+  ],
+  "result": {
+    "id": "modonomicon:modonomicon",
+    "components": {
+      "modonomicon:book_id": "whisperella_engines_n_zoos:engines_n_zoos",
+      "minecraft:lore": [
+        {
+          "text": "Amazing",
+          "type": "text"
+        }
+      ]
+    },
+    "count": 1
+  }
+}
