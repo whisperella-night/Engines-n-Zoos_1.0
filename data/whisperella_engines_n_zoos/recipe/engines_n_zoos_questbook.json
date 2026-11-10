@@ -64,13 +64,7 @@
   "result": {
     "id": "modonomicon:modonomicon",
     "components": {
-      "modonomicon:book_id": "whisperella_engines_n_zoos:engines_n_zoos",
-      "minecraft:lore": [
-        {
-          "text": "Amazing",
-          "type": "text"
-        }
-      ]
+      "modonomicon:book_id": "whisperella_engines_n_zoos:engines_n_zoos"
     },
     "count": 1
   }

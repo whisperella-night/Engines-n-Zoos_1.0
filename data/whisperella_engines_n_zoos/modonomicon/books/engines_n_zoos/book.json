@@ -1,7 +1,7 @@
 {
-  "name": "book.modonomicon.engines_n_zoos.name",
+  "name": "Engines 'n Zoos Questbook",
+  "tooltip": "A book to showcase various quests explored in the datapack.",
   "description": "Where does this end up?",
-  "tooltip": "book.modonomicon.engines_n_zoos.tooltip",
   "generate_book_item": true,
   "model": "modonomicon:modonomicon_purple",
   "creative_tab": "misc",
